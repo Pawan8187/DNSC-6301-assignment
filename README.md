@@ -6,7 +6,7 @@
 * **Model date**: August, 2021
 * **Model version**: 1.1
 * **License**: GWU
-* **Model implementation code**: [DNSC_6301_Example_Project.ipynb](https://github.com/Pawan8187/DNSC-6301-assignment/blob/main/DNSC_6301_P.ipynb))
+* **Model implementation code**: [DNSC_6301_Example_Project.ipynb](https://github.com/Pawan8187/DNSC-6301-assignment/blob/main/DNSC_6301_P.ipynb)
 
 ### Intended Use
 * **Primary intended uses**: This model is an *example* probability of default classifier, with an *example* use case for determining eligibility for a credit line increase.
