@@ -71,8 +71,6 @@ AIR: AIR from model are 0.82, 0.83 and 0.98 for Hispanic to white, black to whit
 
 ○	State the final values, neatly -- as bullets or a table, of the metrics for all data: training, validation, and test data:
 
-![image](https://user-images.githubusercontent.com/111696348/187059246-0fc6ee9a-a591-44e6-8b2d-b3f26e412874.png)
-
 ![image](https://user-images.githubusercontent.com/111696348/187059016-a0360758-48f4-4a85-a9fe-c0cea7992978.png)
 
 
