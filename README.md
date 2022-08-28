@@ -64,7 +64,7 @@ DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
 
 | Tr AUC | Val AUC | Test AUC |
 | ------ | ------- | -------- |
-| 0.3456 | 0.7438  | 0.7687 |
+| 0.7837 | 0.7496  | 0.7438 |
 AIR: AIR from model are 0.82, 0.83 and 0.98 for Hispanic to white, black to white, and Asian to white respectively, and AIR values for recalculated model are 0.84, 0.87, and 0.99 for Hispanic to white, black to white , and Asian to white respectively. ![image](https://user-images.githubusercontent.com/111696348/187058562-8c118132-f975-463d-8a44-3aee1e4d558e.png)
 ○	State the final values, neatly -- as bullets or a table, of the metrics for all data: training, validation, and test data:
 
