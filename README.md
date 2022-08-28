@@ -5,13 +5,13 @@
 * **Person or organization developing model**: Pawan, `pawan@wu.edu`
 * **Model date**: August, 2021
 * **Model version**: 1.1
-* **License**: GWU
+* **License**: MIT
 * **Model implementation code**: [DNSC_6301_Example_Project.ipynb](https://github.com/Pawan8187/DNSC-6301-assignment/blob/main/DNSC_6301_P.ipynb)
 
 ### Intended Use
 * **Primary intended uses**: This model is an *example* probability of default classifier, with an *example* use case for determining eligibility for a credit line increase.
 * **Primary intended users**: : Mostly by the Graduate student, especially the data and Business analysts’ students 
-* **Out-of-scope use cases**: Any use beyond an educational example is out-of-scope.
+* **Out-of-scope use cases**: Used in context other than educational purpose. 
 
 ### Training Data
 
@@ -39,7 +39,7 @@
 
 ### Test Data
 * **Source of test data**: GWU Blackboard, email `jphall@gwu.edu` for more information
-* **Number of rows in test data**: 7,500
+* **Number of rows in test data**: 15000 rows, 20 columns in training data, whereas in validation there are 7500 rows, 20 Columns. 
 * **State any differences in columns between training and test data**: None
 
 ### Model details
