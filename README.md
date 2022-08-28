@@ -2,8 +2,8 @@
 
 ### Basic Information
 
-* **Person or organization developing model**: Pawan, `pawan@wu.edu`
-* **Model date**: August, 2021
+* **Person or organization developing model**: Pawan Kumar, `pawanmarine81@gwu.edu`
+* **Model date**: 27 August, 2021
 * **Model version**: 1.1
 * **License**: MIT
 * **Model implementation code**: [DNSC_6301_Example_Project.ipynb](https://github.com/Pawan8187/DNSC-6301-assignment/blob/main/DNSC_6301_P.ipynb)
