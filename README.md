@@ -69,6 +69,9 @@ DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
 #### Correlation Heatmap
 ![Correlation Heatmap](download.png)
 
+#### Iteration Plot Tree Depth vs AUC
+[Iteration Plot](Iteration_Plot.png)
+
 #### Ethical considerations:
 ##### Describe potential negative impacts of using your model:
 
